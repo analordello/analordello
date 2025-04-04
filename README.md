@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @analordello
 - 👀 I’m interested in UX & UI design
-- 🌱 I’m currently learning HTML & CSS for the sake of launching my personal website
-- 💞️ I’m looking to collaborate on tech teams as a product designer 
+- 💞️ I collaborate on tech teams as a product designer 
 - 📫 Reach me at apklordello@gmail.com
 
 <!---
